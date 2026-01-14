@@ -26,16 +26,7 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
 
 <table align="left" >
 <tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+<td width="50%" align="center"> <p align="center"> <strong style="font-size:20px;">📊 Dashboard TAMBO</strong> </p> <p align="center"> <!-- Mini visualización como imagen --> <a href="https://app.powerbi.com/view?r=eyJrIjoiZGNlN2IxZDEtZDJhMS00ZWZkLTgyYjAtMjg3NzM0MjM1YjhmIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9" target="_blank"> <img src="Images/tambo_dashboard.png" alt="Mini Visualización TAMBO" width="100%" /> </a> </p> <p align="center"> <!-- Botón estilo badge --> <a href="https://app.powerbi.com/view?r=eyJrIjoiZGNlN2IxZDEtZDJhMS00ZWZkLTgyYjAtMjg3NzM0MjM1YjhmIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Dashboard-PowerBI-yellow?style=for-the-badge&logo=powerbi" alt="Dashboard TAMBO" /> </a> </p> </td>
 <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
@@ -46,7 +37,6 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
       <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
-  
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
