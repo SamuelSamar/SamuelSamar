@@ -22,46 +22,74 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+  <h2>Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-<td width="50%" align="center"> <p align="center"> <strong style="font-size:20px;">📊 Dashboard TAMBO</strong> </p> <p align="center"> <!-- Mini visualización como imagen --> <a href="https://app.powerbi.com/view?r=eyJrIjoiZGNlN2IxZDEtZDJhMS00ZWZkLTgyYjAtMjg3NzM0MjM1YjhmIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9" target="_blank"> <img src="Images/tambo_dashboard.png" alt="Mini Visualización TAMBO" width="100%" /> </a> </p> <p align="center"> <!-- Botón estilo badge --> <a href="https://app.powerbi.com/view?r=eyJrIjoiZGNlN2IxZDEtZDJhMS00ZWZkLTgyYjAtMjg3NzM0MjM1YjhmIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Dashboard-PowerBI-yellow?style=for-the-badge&logo=powerbi" alt="Dashboard TAMBO" /> </a> </p> </td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
+  <table style="width:100%; border:none;">
+    <tr>
+      <!-- Proyecto 1 -->
+      <td style="width:25%; text-align:center; vertical-align:top;">
+        <p><strong style="font-size:20px;">📊 Dashboard TAMBO</strong></p>
+        <a href="https://app.powerbi.com/view?r=..." target="_blank">
+          <img src="Images/tambo_dashboard.png" alt="Mini Visualización TAMBO" style="width:100%;" />
+        </a>
+        <p>
+          <a href="https://app.powerbi.com/view?r=..." target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Dashboard-PowerBI-yellow?style=for-the-badge&logo=powerbi" alt="Dashboard TAMBO" />
+          </a>
+        </p>
+      </td>
+      <!-- Proyecto 2 -->
+      <td style="width:25%; text-align:center; vertical-align:top;">
+        <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+          <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="VIDEO" style="width:100%;" />
+        </a>
+        <p>
+          <a href="https://youtu.be/fiUkA2OZQjs" target="blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+          </a>
+          <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <!-- Proyecto 3 -->
+      <td style="width:25%; text-align:center; vertical-align:top;">
+        <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+          <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="VIDEO" style="width:100%;" />
+        </a>
+        <p>
+          <a href="https://youtu.be/py31Y1Ku4Es" target="blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+          </a>
+          <a href="https://github.com/unsimpledev/MiChatGPT" target="blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <!-- Proyecto 4 -->
+      <td style="width:25%; text-align:center; vertical-align:top;">
+        <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+          <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp" alt="VIDEO" style="width:100%;" />
+        </a>
+        <p>
+          <a href="https://youtu.be/FbQtooM3UIs" target="blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+          </a>
+          <a href="https://github.com/unsimpledev/MiTraductor" target="blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <!-- Nueva fila (ejemplo para más proyectos) -->
+    <tr>
+      <td style="width:25%; text-align:center; vertical-align:top;">Proyecto 5</td>
+      <td style="width:25%; text-align:center; vertical-align:top;">Proyecto 6</td>
+      <td style="width:25%; text-align:center; vertical-align:top;">Proyecto 7</td>
+      <td style="width:25%; text-align:center; vertical-align:top;">Proyecto 8</td>
+    </tr>
+  </table>
+</div>
 <br>
 <br><br>
 <br>
