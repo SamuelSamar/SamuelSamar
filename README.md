@@ -42,7 +42,7 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
       <td style="width:25%; text-align:center; vertical-align:top;">
         <p><strong style="font-size:20px;">Denuncias Policiales - Perú</strong></p>
         <a href="https://github.com/SamuelSamar/analisis_denuncias_policiales_peru_2018_2025" target="_blank">
-          <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/PortadaTamboBI.png" alt="analisis_denuncias_policiales" style="width:100%;" />
+          <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/Análisis.png" alt="analisis_denuncias_policiales" style="width:100%;" />
         </a>
         <p>
           <a href="https://github.com/SamuelSamar/analisis_denuncias_policiales_peru_2018_2025" target="_blank">
