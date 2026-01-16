@@ -56,11 +56,11 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
       </td>
       <td style="width:25%; text-align:center; vertical-align:top;">
         <p><strong style="font-size:20px;">Ánalisis de las ventas de tacos</strong></p>
-        <a href="https://github.com/SamuelSamar/analisis_denuncias_policiales_peru_2018_2025" target="_blank">
+        <a href="https://github.com/SamuelSamar/analisis_ventas_de_tacos_2024-2025" target="_blank">
           <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/AnálisisVentasTacos.png" alt="analisis_denuncias_policiales" style="width:100%;" />
         </a>
         <p>
-          <a href="https://github.com/SamuelSamar/analisis_denuncias_policiales_peru_2018_2025" target="_blank">
+          <a href="https://github.com/SamuelSamar/analisis_ventas_de_tacos_2024-2025" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Proyecto-GitHub-black?style=for-the-badge&logo=github" alt="Ver proyecto en github" />
           </a>
         </p>
@@ -69,11 +69,11 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
     <tr>
       <td style="width:25%; text-align:center; vertical-align:top;">
         <p><strong style="font-size:20px;">Análisis de las ventas online</strong></p>
-        <a href="https://github.com/SamuelSamar/analisis_denuncias_policiales_peru_2018_2025" target="_blank">
+        <a href="https://github.com/SamuelSamar/analisis_ventas_online" target="_blank">
           <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/AnálisisVentasOnline.png" alt="analisis_denuncias_policiales" style="width:100%;" />
         </a>
         <p>
-          <a href="https://github.com/SamuelSamar/analisis_denuncias_policiales_peru_2018_2025" target="_blank">
+          <a href="https://github.com/SamuelSamar/analisis_ventas_online" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Proyecto-GitHub-black?style=for-the-badge&logo=github" alt="Ver proyecto en github" />
           </a>
         </p>
