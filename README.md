@@ -30,7 +30,7 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
       <td style="width:25%; text-align:center; vertical-align:top;">
         <p><strong style="font-size:20px;">📊 Dashboard TAMBO</strong></p>
         <a href="https://app.powerbi.com/view?r=..." target="_blank">
-          <img src="Images/tambo_dashboard.png" alt="Mini Visualización TAMBO" style="width:100%;" />
+          <img src="https://raw.githubusercontent.com/SamuelSamar/main/assests/PortadaTamboBI.png" alt="Mini Visualización TAMBO" style="width:100%;" />
         </a>
         <p>
           <a href="https://app.powerbi.com/view?r=..." target="_blank">
