@@ -28,12 +28,12 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
     <tr>
       <!-- Proyecto 1 -->
       <td style="width:25%; text-align:center; vertical-align:top;">
-        <p><strong style="font-size:20px;">📊 Dashboard TAMBO</strong></p>
-        <a href="https://app.powerbi.com/view?r=..." target="_blank">
+        <p><strong style="font-size:20px;">Dashboard TAMBO</strong></p>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiZGNlN2IxZDEtZDJhMS00ZWZkLTgyYjAtMjg3NzM0MjM1YjhmIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9" target="_blank">
           <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/PortadaTamboBI.png" alt="Mini Visualización TAMBO" style="width:100%;" />
         </a>
         <p>
-          <a href="https://app.powerbi.com/view?r=..." target="_blank">
+          <a href="https://app.powerbi.com/view?r=eyJrIjoiZGNlN2IxZDEtZDJhMS00ZWZkLTgyYjAtMjg3NzM0MjM1YjhmIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Dashboard-PowerBI-yellow?style=for-the-badge&logo=powerbi" alt="Dashboard TAMBO" />
           </a>
         </p>
