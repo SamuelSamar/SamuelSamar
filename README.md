@@ -45,11 +45,11 @@ Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática 
       </td>
       <td style="width:25%; text-align:center; vertical-align:top;">
         <p><strong style="font-size:20px;">ETL y modelado dimensional de denuncias policiales - Perú</strong></p>
-        <a href="https://github.com/SamuelSamar/analisis_denuncias_policiales_peru_2018_2025" target="_blank">
+        <a href="https://github.com/SamuelSamar/denuncias_policiales_sql" target="_blank">
           <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/ETLSQLServer.png" alt="analisis_denuncias_policiales" style="width:100%;" />
         </a>
         <p>
-          <a href="https://github.com/SamuelSamar/analisis_denuncias_policiales_peru_2018_2025" target="_blank">
+          <a href="https://github.com/SamuelSamar/denuncias_policiales_sql" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Proyecto-GitHub-black?style=for-the-badge&logo=github" alt="Ver proyecto en github" />
           </a>
         </p>
