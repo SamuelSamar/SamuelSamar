@@ -6,7 +6,7 @@
 </p>
 <h2>Sobre mi 😃</h2>
 <p align="left">
-Estudiante de 9no ciclo de la carrera de ingeniería de sistemas e informática en la Universidad Tecnológica del Perú, con experiencia en análisis de datos y desarrollo de aplicaciones web. Manejo herramientas como Python, SQL, Power BI y Excel para transformar grandes volúmenes de información en insights accionables. He trabajado en equipos multidisciplinarios desarrollando proyectos que integran inteligencia artificial, análisis estadístico y diseño web responsivo. Busco realizar prácticas preprofesionales en el área de análisis de datos, aportando soluciones que optimicen procesos y fortalezcan la toma de decisiones basada en datos.
+Estudiante de 10mo ciclo de la carrera de ingeniería de sistemas e informática en la Universidad Tecnológica del Perú, con experiencia en análisis de datos y desarrollo de aplicaciones web. Manejo herramientas como Python, SQL, Power BI y Excel para transformar grandes volúmenes de información en insights accionables. He trabajado en equipos multidisciplinarios desarrollando proyectos que integran inteligencia artificial, análisis estadístico y diseño web responsivo. Busco realizar prácticas preprofesionales en el área de análisis de datos, aportando soluciones que optimicen procesos y fortalezcan la toma de decisiones basada en datos.
 </p>
 <br>
 <h2>Habilidades técnicas👨🏻‍💻</h2>
