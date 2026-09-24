@@ -109,9 +109,10 @@ A continuación, presento algunos de mis proyectos más recientes. Puedes hacer 
 <h2>📈 Mis Estadísticas</h2>
 <p align="center">
   <a href="https://github.com/SamuelSamar" target="_blank">
-    <img height="190" align="top" src="https://ghstats.dev/api/card?username=SamuelSamar&theme=ocean" alt="Estadísticas de GitHub" />
+    <img width="48%" align="top" src="https://ghstats.dev/api/card?username=SamuelSamar&theme=ocean" alt="Estadísticas de GitHub" />
   </a>
+  &nbsp;
   <a href="https://github.com/SamuelSamar" target="_blank">
-    <img height="190" align="top" src="https://ghstats.dev/api/langs?username=SamuelSamar&theme=midnight&max_langs=5&layout=vertical_list" alt="Top Languages" />
+    <img width="48%" align="top" src="https://ghstats.dev/api/langs?username=SamuelSamar&theme=midnight&max_langs=5&layout=vertical_list" alt="Top Languages" />
   </a>
 </p>
