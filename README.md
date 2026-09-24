@@ -79,13 +79,9 @@ A continuación, presento algunos de mis proyectos más recientes. Puedes hacer 
     </tr>
   </table>
 </div>
-<br><br>
-
+<br>
 <h2>📈 Mis Estadísticas</h2>
-
 <div align="center">
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SamuelSamar&show_icons=true&theme=dracula&hide_border=true)](https://github.com/SamuelSamar)
-[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSamar&layout=compact&theme=dracula&hide_border=true)](https://github.com/SamuelSamar)
-
+  
+[![Estadísticas de GitHub](https://ghstats.dev/api/card?username=SamuelSamar&theme=ocean)](https://github.com/SamuelSamar)
 </div>
