@@ -1,30 +1,56 @@
 <h1 align="center">Hola 👋 soy Héctor Samar ✨</h1> 
 
-<p align="center">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/h%C3%A9ctor-samuel-samar-vilcarromero-421799267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Héctor" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:unsimpledev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Héctor" />
+  <a href="https://wa.me/51953701012" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-</p>
-
-<br>
+</div>
 
 ## 😃 Sobre mí
-Estudiante de 10mo ciclo de la carrera de ingeniería de sistemas e informática en la Universidad Tecnológica del Perú, con experiencia en análisis de datos y desarrollo de aplicaciones web. Manejo herramientas como Python, SQL, Power BI y Excel para transformar grandes volúmenes de información en insights accionables. 
-
-He trabajado en equipos multidisciplinarios desarrollando proyectos que integran inteligencia artificial, análisis estadístico y diseño web responsivo. Busco realizar prácticas preprofesionales en el área de análisis de datos, aportando soluciones que optimicen procesos y fortalezcan la toma de decisiones basada en datos.
-
+Estudiante de 10mo ciclo de la carrera de ingeniería de sistemas e informática en la Universidad Tecnológica del Perú, con experiencia en análisis de datos y desarrollo de aplicaciones web. Manejo herramientas como Python, SQL, Power BI y Excel para transformar grandes volúmenes de información en insights accionables. He trabajado en equipos multidisciplinarios desarrollando proyectos que integran inteligencia artificial, análisis estadístico y diseño web responsivo. Busco realizar prácticas preprofesionales en el área de análisis de datos, aportando soluciones que optimicen procesos y fortalezcan la toma de decisiones basada en datos.
 <br>
 
 ## 👨🏻‍💻 Habilidades técnicas
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,flask,spring,mysql,sqlite,postgres,git,github,vscode,java,py&perline=10" alt="Habilidades Técnicas" />
-  </a>
-</p>
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
 <br>
 
 ## 📊 Proyectos de Análisis de Datos
@@ -81,7 +107,12 @@ A continuación, presento algunos de mis proyectos más recientes. Puedes hacer 
 </div>
 <br>
 <h2>📈 Mis Estadísticas</h2>
-<div align="center">
-  
-[![Estadísticas de GitHub](https://ghstats.dev/api/card?username=SamuelSamar&theme=ocean)](https://github.com/SamuelSamar)
-</div>
+<p align="center">
+  <a href="https://github.com/SamuelSamar" target="_blank">
+    <img align="top" src="https://ghstats.dev/api/card?username=SamuelSamar&theme=midnight" alt="Estadísticas de GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SamuelSamar" target="_blank">
+    <img align="top" src="https://ghstats.dev/api/langs?username=SamuelSamar&theme=midnight&max_langs=5&layout=vertical_list" alt="Top Languages" />
+  </a>
+</p>
