@@ -13,6 +13,11 @@
 Estudiante de 10mo ciclo de la carrera de ingeniería de sistemas e informática en la Universidad Tecnológica del Perú, con experiencia en análisis de datos y desarrollo de aplicaciones web. Manejo herramientas como Python, SQL, Power BI y Excel para transformar grandes volúmenes de información en insights accionables. He trabajado en equipos multidisciplinarios desarrollando proyectos que integran inteligencia artificial, análisis estadístico y diseño web responsivo. Busco realizar prácticas preprofesionales en el área de análisis de datos, aportando soluciones que optimicen procesos y fortalezcan la toma de decisiones basada en datos.
 <br>
 
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=SamuelSamar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 ## 👨🏻‍💻 Habilidades técnicas
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -109,7 +114,7 @@ A continuación, presento algunos de mis proyectos más recientes. Puedes hacer 
 <h2>📈 Mis Estadísticas</h2>
 <p align="center">
   <a href="https://github.com/SamuelSamar" target="_blank">
-    <img width="48%" align="top" src="https://ghstats.dev/api/card?username=SamuelSamar&theme=ocean" alt="Estadísticas de GitHub" />
+    <img width="48%" align="top" src="https://ghstats.dev/api/card?username=SamuelSamar&theme=midnight" alt="Estadísticas de GitHub" />
   </a>
   &nbsp;
   <a href="https://github.com/SamuelSamar" target="_blank">
