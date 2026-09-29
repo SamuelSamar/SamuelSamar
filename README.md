@@ -103,6 +103,18 @@ A continuación, presento algunos de mis proyectos más recientes. Puedes hacer 
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Asistente Conversacional con la API de GROQ</h3>
+        <a href="https://github.com/SamuelSamar/asistente_IA_adulto_mayor" target="_blank">
+          <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/ETLSQLServer.png" width="100%" alt="ETL SQL Server"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/SamuelSamar/asistente_IA_adulto_mayor">
+          <img src="https://img.shields.io/badge/Ver_Proyecto-GitHub-black?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 <br>
