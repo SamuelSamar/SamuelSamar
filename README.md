@@ -107,7 +107,7 @@ A continuación, presento algunos de mis proyectos más recientes. Puedes hacer 
       <td align="center" width="50%">
         <h3>Asistente Conversacional con la API de GROQ</h3>
         <a href="https://github.com/SamuelSamar/asistente_IA_adulto_mayor" target="_blank">
-          <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/ETLSQLServer.png" width="100%" alt="ETL SQL Server"/>
+          <img src="https://raw.githubusercontent.com/SamuelSamar/SamuelSamar/main/assets/asistente_conversacional_con_api_de_groq.png" width="100%" alt="ETL SQL Server"/>
         </a>
         <br><br>
         <a href="https://github.com/SamuelSamar/asistente_IA_adulto_mayor">
